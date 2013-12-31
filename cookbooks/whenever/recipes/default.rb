@@ -8,7 +8,7 @@ ey_cloud_report "whenever" do
 end
  
 # Set your application name here
-appname = "therapylogs"
+appname = "expiry"
  
 if ['solo', 'util'].include?(node[:instance_role])
  
