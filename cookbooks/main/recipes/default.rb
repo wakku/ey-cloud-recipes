@@ -143,6 +143,7 @@
   # postgresql9_xml2 "dbname"
 
   # 9.2 Extensions
+  # WARNING pg_stat_statements requires a server restart
   # postgresql9_pg_stat_statements "dbname"
 
   #Admin-Level Contribs
